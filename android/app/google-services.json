@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981380990966",
+    "project_id": "pps-demo-app",
+    "storage_bucket": "pps-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981380990966:android:4cb877088f87e29f9a29d7",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981380990966-18pmcqc83s38q2dqeof7se54q922rrsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICV2YIZwDCb_dV-BmtBY44QN0V7U6na4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981380990966-18pmcqc83s38q2dqeof7se54q922rrsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
